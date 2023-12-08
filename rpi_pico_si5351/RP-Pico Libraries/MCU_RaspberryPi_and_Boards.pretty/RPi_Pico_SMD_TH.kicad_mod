@@ -1,6 +1,6 @@
 (footprint "RPi_Pico_SMD_TH" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 653113BE)
+  (tedit 65722407)
   (descr "Through hole straight pin header, 2x20, 2.54mm pitch, double rows")
   (tags "Through hole pin header THT 2x20 2.54mm double row")
   (attr through_hole)
