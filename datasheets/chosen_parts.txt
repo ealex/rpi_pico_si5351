@@ -1,1 +1,6 @@
 display: https://www.buydisplay.com/2-inch-ips-tft-lcd-display-ips-panel-screen-240x320-for-smart-watch
+rp2040: toata placa lipita
+synth: MS5351 + 27MHz crystal
+rotary encoder: https://ro.farnell.com/bourns/pec12r-3220f-s0024/encoder-quadrature-24ppr-15rpm/dp/4014828
+joystick: https://ro.farnell.com/e-switch/js5208/navigation-sw-5-pos-0-02a-15vdc/dp/4051011
+crystal: https://ro.farnell.com/multicomp/mcsjk-7u-27-00-10-10-60-b-10/crystal-27mhz-10pf-3-2mm-x-2-5mm/dp/2853974
